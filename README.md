@@ -10,4 +10,4 @@
 * Cloro triple accion
 * Sintec Forte 
 
-![Imagen]"C:\Users\santiago\Desktop\logotipo.png"
+![Imagen]("C:\Users\santiago\Desktop\logotipo.png")
